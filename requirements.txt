@@ -1,0 +1,5 @@
+Flask==2.3.3
+Flask-SocketIO==5.3.6
+Flask-SQLAlchemy==3.0.5
+eventlet==0.33.3
+pyserial==3.5
